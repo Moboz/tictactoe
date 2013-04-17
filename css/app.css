@@ -2,37 +2,27 @@ body{
 	background: #464646; 
 	font-family: Arial, Helvetica, Tahoma, sans-serif;
 }
-
-
 #grey{
 	background-color: #464646;
 }
 #wrapper{
 	margin: 0 auto;
 	float: none;
-	width: 246px;
+	width: 249px;
 	height: 246px;
-	margin-top: 50px;
+	margin-top: 100px;
 	background-color: black;
 }
 .square{
-	width: 80px;
+	width: 81px;
 	height: 80px;	
 	float: left;
 	margin: 1px;
 	background-color: white;
+	font-size: 60px;
+	text-align: center;
+	line-height: 80px;
 }
-.hannes div:nth-child(4){
-	clear: left;
-}
-.hannes div:nth-child(7){
-	clear: left;
-}
-
-#button{
-
-}
-
 
 
 
